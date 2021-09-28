@@ -23,5 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/73570343/135030664-77e3f8c6-a8e1-4ba3-8414-b18545e92023.gif)
